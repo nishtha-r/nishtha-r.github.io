@@ -12,7 +12,7 @@ I enjoy building simulations and analysis tools using Python and STK
 
 
 <b> Ansys STK </b>  
-- [Tango-Sat]
+- [Tango-Sat](https://github.com/nishtha-r/TANGO-SatMissionDesign.git)  </b>
 
 
 <h2> 🌐 Connect with me:</h2>
