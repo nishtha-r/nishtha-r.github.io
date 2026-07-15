@@ -8,7 +8,7 @@ I enjoy building simulations and analysis tools using Python and STK
 <h2> 🚀 Featured Projects:</h2>
  <b>Python </b>  
   
-  - <b>[3D Orbital Propogator](https://github.com/nishtha-r/OrbitalPropagator.git) </b>
+  - [3D Orbital Propogator](https://github.com/nishtha-r/OrbitalPropagator.git) </b>
 
 
 <b> Ansys STK </b>  
