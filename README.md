@@ -1,9 +1,9 @@
 <h1>Hi, I'm Nishtha!👋 </h1>
-M.S. Aerospace Engineering Student at the University of Florida
-Research & Development Intern for PolyMaterials App
-
-Interested in Astrodynamics, GNC, Mission Design, and Space Systems
-I enjoy building simulations and analysis tools using Python and STK
+M.S. Aerospace Engineering Student at the University of Florida </br>
+Research & Development Intern for PolyMaterials App </br>
+</br>
+Interested in Astrodynamics, GNC, Mission Design, and Space Systems </br>
+I enjoy building simulations and analysis tools using Python and STK </br>
 
 <h2> 🚀 Featured Projects:</h2>
  <b>Python </b>  
